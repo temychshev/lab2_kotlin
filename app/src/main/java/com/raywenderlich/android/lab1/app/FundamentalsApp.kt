@@ -15,6 +15,8 @@ import com.raywenderlich.android.lab1.screens.ProgressIndicatorScreen
 import com.raywenderlich.android.lab1.screens.SurfaceScreen
 import com.raywenderlich.android.lab1.screens.TextFieldScreen
 import com.raywenderlich.android.lab1.screens.TextScreen
+import com.raywenderlich.android.lab1.screens.ColumnScreen
+import com.raywenderlich.android.lab1.screens.RowScreen
 
 @Composable
 fun FundamentalsApp() {
@@ -30,6 +32,8 @@ fun FundamentalsApp() {
                 is Screen.Surface -> SurfaceScreen()
                 is Screen.Scaffold -> ScaffoldScreen()
                 is Screen.Box -> BoxScreen()
+                is Screen.Column -> ColumnScreen()
+                is Screen.Row -> RowScreen()
             }
         }
     }

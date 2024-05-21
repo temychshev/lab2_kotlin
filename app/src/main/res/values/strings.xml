@@ -18,6 +18,8 @@
     <string name="button_surface">Поверхность</string>
     <string name="button_scaffold">Cтроительные леса</string>
     <string name="button_box">Коробка</string>
+    <string name="button_column">Контейнер Column</string>
+    <string name="button_row">Ширенга</string>
     <string name="menu"/>
     <string name="MyComposeApp"/>
     <string name="close"><![CDATA[<string name=\"close\">Закрыть</string>\n]]></string>

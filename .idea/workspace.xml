@@ -9,10 +9,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d1644e5-a66d-4ba5-9aef-d585f9aa1686" name="Changes" comment="Change more (Fundamentals, Navigation, Surface)">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/BoxScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/BoxScreen.kt" afterDir="false" />
+    <list default="true" id="3d1644e5-a66d-4ba5-9aef-d585f9aa1686" name="Changes" comment="Change BoxScreen">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/router/FundamentalsRouter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/router/FundamentalsRouter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/ColumnScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/ColumnScreen.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/NavigationScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/NavigationScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/RowScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/RowScreen.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716292395673</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Change BoxScreen">
+      <option name="closed" value="true" />
+      <created>1716292704669</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716292704669</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -316,6 +326,7 @@
     <MESSAGE value="Create BoxScreen" />
     <MESSAGE value="Change Strings.xml" />
     <MESSAGE value="Change more (Fundamentals, Navigation, Surface)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change more (Fundamentals, Navigation, Surface)" />
+    <MESSAGE value="Change BoxScreen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change BoxScreen" />
   </component>
 </project>
