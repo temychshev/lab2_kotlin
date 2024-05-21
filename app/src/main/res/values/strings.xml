@@ -17,6 +17,7 @@
     <string name="third">Третий</string>
     <string name="button_surface">Поверхность</string>
     <string name="button_scaffold">Cтроительные леса</string>
+    <string name="button_box">Коробка</string>
     <string name="menu"/>
     <string name="MyComposeApp"/>
     <string name="close"><![CDATA[<string name=\"close\">Закрыть</string>\n]]></string>

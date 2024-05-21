@@ -4,11 +4,11 @@ import ScaffoldScreen
 import androidx.compose.animation.Crossfade
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
-import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import com.raywenderlich.android.lab1.router.FundamentalsRouter
 import com.raywenderlich.android.lab1.router.Screen
 import com.raywenderlich.android.lab1.screens.AlertDialogScreen
+import com.raywenderlich.android.lab1.screens.BoxScreen
 import com.raywenderlich.android.lab1.screens.ExploreButtonsScreen
 import com.raywenderlich.android.lab1.screens.NavigationScreen
 import com.raywenderlich.android.lab1.screens.ProgressIndicatorScreen
@@ -29,6 +29,7 @@ fun FundamentalsApp() {
                 is Screen.AlertDialog -> AlertDialogScreen()
                 is Screen.Surface -> SurfaceScreen()
                 is Screen.Scaffold -> ScaffoldScreen()
+                is Screen.Box -> BoxScreen()
             }
         }
     }

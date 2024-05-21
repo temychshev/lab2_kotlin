@@ -9,16 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d1644e5-a66d-4ba5-9aef-d585f9aa1686" name="Changes" comment="Change Strings.xml">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/ScaffoldScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" afterDir="false" />
+    <list default="true" id="3d1644e5-a66d-4ba5-9aef-d585f9aa1686" name="Changes" comment="Change more (Fundamentals, Navigation, Surface)">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/BoxScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/BoxScreen.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/NavigationScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/NavigationScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/SurfaceScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/SurfaceScreen.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -295,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715097742990</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Change more (Fundamentals, Navigation, Surface)">
+      <option name="closed" value="true" />
+      <created>1716292395673</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716292395673</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -314,6 +315,7 @@
     <MESSAGE value="Create SurfaceScreen" />
     <MESSAGE value="Create BoxScreen" />
     <MESSAGE value="Change Strings.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Strings.xml" />
+    <MESSAGE value="Change more (Fundamentals, Navigation, Surface)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change more (Fundamentals, Navigation, Surface)" />
   </component>
 </project>
