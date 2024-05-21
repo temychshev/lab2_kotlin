@@ -9,10 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d1644e5-a66d-4ba5-9aef-d585f9aa1686" name="Changes" comment="Add GridScreen, ListsScreen, ScrollingScreen">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/ListsScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/ListsScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/NavigationScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/NavigationScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/ScrollingScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/ScrollingScreen.kt" afterDir="false" />
+    <list default="true" id="3d1644e5-a66d-4ba5-9aef-d585f9aa1686" name="Changes" comment="Change ListScreen and NavigationScreen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/GridScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/GridScreen.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -328,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716293674868</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Change ListScreen and NavigationScreen">
+      <option name="closed" value="true" />
+      <created>1716294022086</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716294022086</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -352,6 +359,7 @@
     <MESSAGE value="Change RowScreen and ColumnScreen" />
     <MESSAGE value="Change AppBars" />
     <MESSAGE value="Add GridScreen, ListsScreen, ScrollingScreen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add GridScreen, ListsScreen, ScrollingScreen" />
+    <MESSAGE value="Change ListScreen and NavigationScreen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change ListScreen and NavigationScreen" />
   </component>
 </project>

@@ -31,6 +31,8 @@
     <string name="List">List</string>
     <string name="menu">Menu</string>>
     <string name="covers">covers</string>
+    <string name="grid_icon">Grid icon</string>
+    <string name="Grid">Grid</string>
     <string name="MyComposeApp" >MyComposeApp</string>
     <string name="close"><![CDATA[<string name=\"close\">Закрыть</string>\n]]></string>
     <string name="dialogWindow"><![CDATA[<string name=\"dialogWindow\">Это диалоговое окно</string>\n]]></string>
