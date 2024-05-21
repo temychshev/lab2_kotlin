@@ -22,6 +22,10 @@
     <string name="button_row">Ширенга</string>
     <string name="menu"/>
     <string name="MyComposeApp"/>
+    <string name="android" />
+    <string name="kotlin" />
+    <string name="swift">\n</string>
+    <string name="ios" />
     <string name="close"><![CDATA[<string name=\"close\">Закрыть</string>\n]]></string>
     <string name="dialogWindow"><![CDATA[<string name=\"dialogWindow\">Это диалоговое окно</string>\n]]></string>
     <string name="Attention"><![CDATA[<string name=\"Attention\">Внимание</string>\n]]></string>
