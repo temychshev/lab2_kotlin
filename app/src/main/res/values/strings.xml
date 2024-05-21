@@ -15,6 +15,10 @@
     <string name="first">Первый</string>
     <string name="second">Второй</string>
     <string name="third">Третий</string>
+    <string name="button_surface">Поверхность</string>
+    <string name="button_scaffold">Cтроительные леса</string>
+    <string name="menu"/>
+    <string name="MyComposeApp"/>
     <string name="close"><![CDATA[<string name=\"close\">Закрыть</string>\n]]></string>
     <string name="dialogWindow"><![CDATA[<string name=\"dialogWindow\">Это диалоговое окно</string>\n]]></string>
     <string name="Attention"><![CDATA[<string name=\"Attention\">Внимание</string>\n]]></string>

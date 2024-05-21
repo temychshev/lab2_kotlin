@@ -1,7 +1,11 @@
 package com.raywenderlich.android.lab1.screens
 
 
-import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Button
 import androidx.compose.material.ButtonDefaults
@@ -34,6 +38,8 @@ fun NavigationScreen() {
             NavigationButton(stringResource(id = R.string.button_buttons), Screen.Buttons)
             NavigationButton(stringResource(id = R.string.button_progress), Screen.ProgressIndicator)
             NavigationButton(stringResource(id = R.string.button_alertDialog), Screen.AlertDialog)
+            NavigationButton(stringResource(id = R.string.button_surface), Screen.Surface)
+            NavigationButton(stringResource(id = R.string.button_scaffold), Screen.Scaffold)
         }
     }
 }

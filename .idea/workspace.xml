@@ -9,7 +9,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d1644e5-a66d-4ba5-9aef-d585f9aa1686" name="Changes" comment="Create Column and Row Screens" />
+    <list default="true" id="3d1644e5-a66d-4ba5-9aef-d585f9aa1686" name="Changes" comment="Change Strings.xml">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/ScaffoldScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/app/FundamentalsApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/NavigationScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/NavigationScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/SurfaceScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/lab1/screens/SurfaceScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -260,7 +271,31 @@
       <option name="project" value="LOCAL" />
       <updated>1715097447179</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Create SurfaceScreen">
+      <option name="closed" value="true" />
+      <created>1715097541314</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715097541314</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Create BoxScreen">
+      <option name="closed" value="true" />
+      <created>1715097620878</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715097620878</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Change Strings.xml">
+      <option name="closed" value="true" />
+      <created>1715097742990</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715097742990</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,6 +311,9 @@
     <MESSAGE value="Change MyAlertDialog" />
     <MESSAGE value="Clone Lab1" />
     <MESSAGE value="Create Column and Row Screens" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Column and Row Screens" />
+    <MESSAGE value="Create SurfaceScreen" />
+    <MESSAGE value="Create BoxScreen" />
+    <MESSAGE value="Change Strings.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Strings.xml" />
   </component>
 </project>
