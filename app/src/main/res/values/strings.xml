@@ -20,12 +20,18 @@
     <string name="button_box">Коробка</string>
     <string name="button_column">Контейнер Column</string>
     <string name="button_row">Ширенга</string>
-    <string name="menu"/>
-    <string name="MyComposeApp"/>
-    <string name="android" />
-    <string name="kotlin" />
-    <string name="swift">\n</string>
-    <string name="ios" />
+    <string name="android">Android</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="swift">Swift</string>
+    <string name="ios">Ios</string>
+    <string name="architecture">Усовершенствованная архитектура Android </string>
+    <string name="learn_kotlin">Изучение Kotlin</string>
+    <string name="coroutines">Корутины в Kotlin</string>
+    <string name="scroll">Прокрутка</string>
+    <string name="List">List</string>
+    <string name="menu">Menu</string>>
+    <string name="covers">covers</string>
+    <string name="MyComposeApp" >MyComposeApp</string>
     <string name="close"><![CDATA[<string name=\"close\">Закрыть</string>\n]]></string>
     <string name="dialogWindow"><![CDATA[<string name=\"dialogWindow\">Это диалоговое окно</string>\n]]></string>
     <string name="Attention"><![CDATA[<string name=\"Attention\">Внимание</string>\n]]></string>
